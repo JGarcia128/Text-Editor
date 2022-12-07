@@ -45,3 +45,4 @@ https://tinyurl.com/2g7rfvfn
 https://www.awesomescreenshot.com/video/13089546?key=2d3d3de09b7c1ee3e02027d223b0d5ab
 
 ## Links
+GitHub: https://jgarcia128.github.io/Text-Editor/
